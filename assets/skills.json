@@ -1,0 +1,34 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and re-run scripts/radar.py to redraw.",
+  "axes": [
+    {
+      "label": "JavaScript / TypeScript",
+      "value": 85
+    },
+    {
+      "label": "Frontend (React/Next)",
+      "value": 80
+    },
+    {
+      "label": "Backend & REST APIs",
+      "value": 75
+    },
+    {
+      "label": "Python / Flask",
+      "value": 70
+    },
+    {
+      "label": "Databases (SQL/MongoDB)",
+      "value": 65
+    },
+    {
+      "label": "DevOps (Git/Docker)",
+      "value": 60
+    },
+    {
+      "label": "Cybersecurity",
+      "value": 50
+    }
+  ]
+}
