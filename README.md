@@ -1,4 +1,4 @@
-# Hi there, I'm Jonathan 👋
+# Hi, I'm Jonathan 👋
 
 ### 🚀 Full-Stack Developer
 Developer passionate about building web applications, continuous learning, and solving complex problems. Currently expanding my stack with modern Full-Stack web technologies.
