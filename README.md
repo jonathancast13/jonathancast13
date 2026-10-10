@@ -13,7 +13,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Jonathan+Castaneda+%E2%80%94+Full+Stack+Developer%3BJavaScript+%7C+TypeScript+%7C+Node.js+%7C+React%3BPython+%7C+Flask+%7C+MongoDB+%7C+Cybersecurity" alt="Typing SVG">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonathancast13&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=jonathancast13&style=flat-square&color=b99af0&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
